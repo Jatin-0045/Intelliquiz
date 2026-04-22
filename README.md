@@ -2,9 +2,6 @@
 
 A full-stack quiz web application built using Flask and MySQL, featuring secure user authentication, real-time quiz generation via API integration, and persistent performance tracking. Designed with production-ready practices including environment-based configuration and deployment on cloud platforms.
 
-🌐 **Live Demo**  
-Currently not hosted (Railway trial expired). The application can be run locally by following the steps in the **Local Installation & Setup** section below.
-
 ---
 
 ## 🔥 Features
