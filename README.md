@@ -77,38 +77,24 @@ quiz_flask_app/
 🖼️ Screenshots
 
 Homepage:  
-![Homepage](static/screenshots/homepage.png)
+![Homepage] (static/screenshots/homepage.png)
 
 Login page:  
-![Login](static/screenshots/login.png)
+![Login] (static/screenshots/login.png)
 
 Signup page:  
-![Signup](static/screenshots/signup.png)
+![Signup] (static/screenshots/signup.png)
 
 Quiz page:  
-![Quiz](static/screenshots/quiz.png)
+![Quiz] (static/screenshots/quiz.png)
 
 History page:  
-![History](static/screenshots/history.png)
+![History] (static/screenshots/history.png)
 
 Result page:  
-![Result](static/screenshots/result.png)
-
+![Result] (static/screenshots/result.png)
 ---
 
-## 🌐 Deployment (Railway)
-
-This project was deployed on **Railway** using **Gunicorn**.
-
-**Key Deployment Notes:**
-
-* Uses Railway MySQL service
-* Environment variables configured via Railway dashboard
-
-* `Procfile`:
-```
-web: gunicorn app:app
-```
 ## 👤 Author
 
 **Jatin Morwal**
